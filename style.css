@@ -1,0 +1,227 @@
+body{}
+
+.main{
+    width: 100%;
+}
+.topImg{
+    margin: 2vw;
+    width: 68vw;
+}
+.main h1 {
+    line-height: 6vw;
+    letter-spacing: 0.3vw;
+    font-size: 2.4vw;
+    z-index: 10;
+    margin: 0;
+    padding: 0;
+    -webkit-writing-mode: vertical-rl;
+    -ms-writing-mode: tb-rl;
+    writing-mode: vertical-rl;
+    position: absolute;
+    left: 69vw;
+    font-family: serif;
+    top: 10vw;
+    color: black;
+    text-justify: inter-ideograph;
+}
+
+
+nav.topNavi ul li a {
+    color: #000;
+    text-decoration: none;
+    display: block;
+    height: 7vw;
+    padding: 1.5vh 50px;
+    font-size: 4.5vw;
+}
+
+
+
+.btn-kasami01 {
+    background-image: linear-gradient(to right, #92fe9d 0%, #00c9ff 100%);
+    width: 55vw;
+    margin: auto;
+    font-weight: bold;
+    font-family: serif;
+    letter-spacing: 7px;
+    border-radius: 40px;
+}
+
+.btn-kasami01:hover {
+    background-image: linear-gradient(to right, #81e08a 0%, #07a4cf 100%);
+    transition: ease-out 0.5s;
+    color: whitesmoke;
+}
+.clearfix{
+    text-align: center;
+}
+.btn-top{
+    font-size: 4vw;
+    font-weight: bold;
+    margin-bottom: 1vw;
+    margin-top: 2vw;
+}
+
+
+
+
+
+.know-w{
+    text-align: center;
+    margin-top: 7vw;
+}
+.know{
+    width: 80vw;
+}
+.gra{
+    width: 80vw;
+}
+.but{
+    width: 80vw;
+}
+
+
+
+
+.fail-w{
+    margin-top: 7vw;
+    text-align: center;
+}
+.fail{
+    width: 80vw;
+}
+.person{
+    width: 80vw;
+}
+.study{
+    width: 80vw;
+    margin-top: 4vw;
+}
+
+
+
+.give-w{
+    text-align: center;
+}
+.give{
+    margin-top: 7vw;
+    width: 80vw;
+}
+.spec{
+    width: 80vw;
+}
+
+
+
+.our-w{
+    text-align: center;
+    margin-top: 10vw;
+}
+.our{
+    width: 80vw;
+}
+.three{
+    width: 80vw;
+    margin-top: 3vw;
+}
+.answer{
+    width: 80vw;
+    margin-top: 4vw;
+}
+
+
+
+
+
+.book-w{
+    margin-top: 7vw;
+    text-align: center;
+}
+.book{
+    width: 80vw;
+}
+.content{
+    width: 80vw;
+    margin-bottom: 3vw;
+}
+.moririn{
+    width: 80vw;
+    margin-top: 4vw;
+}
+
+
+
+.intro-w{
+    margin-top: 10vw;
+    text-align: center;
+}
+.intro{
+    width: 80vw;
+}
+.background{
+    width: 80vw;
+}
+
+
+.one-w{
+    text-align: center;
+    margin-top: 10vw;
+
+}
+.one{
+    width: 80vw;
+}
+.plo1{
+    width: 80vw;
+}
+.plo2{
+    width: 80vw;
+}
+
+
+.kindle-w{
+    margin-top: 15vw;
+    text-align: center;
+}
+.kindle{
+    width: 80vw;
+}
+.popular{
+    width: 80vw;
+}
+
+
+
+.small-w{
+    text-align: center;
+}
+.small{
+    width: 80vw;
+}
+
+
+
+.company-w{
+    margin-top: 11vw;
+    width: 100%;
+}
+.company-w p{
+    font-family: serif;
+    color: gray;
+    margin-top: 3vw;
+    text-align: center;
+    font-size: 4vw;
+}
+.company-w h2{
+    margin-left: 13vw;
+    font-size: 3vw;
+}
+.link-w{
+    text-align: center;
+    margin-top: 2vw;
+    margin-bottom: 10vw;
+}
+.link{
+    color: green;
+    font-size: 1.5vw;
+}
